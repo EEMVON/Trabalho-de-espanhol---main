@@ -1,1 +1,64 @@
-/* teste */
+body, html{
+    width: 100%;
+}
+.caixaamarela{
+    background-color: rgb(255, 217, 0);
+    width: 100%;
+    height: 6px;
+    padding: 10px;
+}
+.caixabranca{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 230px;
+    margin: 0%;
+}
+h1{
+    margin: 0%;
+    text-align: center;
+    font-weight: bold;
+    font-family:'Arial Narrow Bold';
+    color: black;
+    font-size: 50px;
+}
+h2{
+    margin: 0%;
+    text-align: center;
+    font-weight: bold;
+    font-family: inherit;
+    color: red;
+    font-size: 55px;
+}
+h3{
+    margin: 0%;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(53, 52, 52);
+    font-size: 34px;
+}
+
+.caixavermelha{
+    background-color: red;
+    width: 100%;
+    height: 6px;
+    padding: 10px;
+}
+.Profissões{
+    margin: 0%;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Arial Narrow Bold';
+    color: black;
+    font-size: 50px;
+    background-color: white;
+    width: 100%;
+    height: 30px;
+    padding: 10px;
+}
+.linhavermelha{
+    background-color: yellow;
+    width: 230px;
+    height: 6px;
+    padding: 2px;
+}
