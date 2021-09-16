@@ -1,0 +1,221 @@
+body{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.container{
+    width: 85%;
+}
+
+.titulo{
+    display: column;
+    justify-content: column;
+    width: 99%;
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    margin: 15px;
+    border-radius: 15px;
+}    
+
+.sub{ 
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    width: 99%;
+    height: 100%;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 5px;
+    }
+
+h1{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+p1{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
+
+h2{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+p2{
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+}
+
+.texto1{
+    text-align: justify;
+}
+
+.imagem1{
+    display: flex;
+    width: 300px;
+    height: 253px;
+    margin: 20px;
+    margin-left: 100px;
+}
+
+.teximg1{
+    width: 99%;
+    height: 99%;
+    display: flex;
+    flex-direction: flex-end;
+    background-color: rgb(255, 255, 255);
+    margin: 3px;
+    align-self: flex-end;
+    align-content: flex-end;
+    margin-top: 5%;
+}
+
+.texto2{
+    text-align: justify;
+}
+
+.imagem2{
+    display: flex;
+    width: 300px;
+    height: 322px;
+    margin: 20px;
+    margin-left: 100px;
+}
+
+.teximg2{
+    width: 99%;
+    height: 99%;
+    display: flex;
+    flex-direction: flex-end;
+    background-color: rgb(255, 255, 255);
+    margin: 3px;
+    align-self: flex-end;
+    align-content: flex-end;
+    margin-top: 2%;
+}
+
+.texto3{
+    text-align: justify;
+}
+
+.imagem3{
+    display: flex;
+    width: 300px;
+    height: 322px;
+    margin: 20px;
+    margin-left: 100px;
+    
+}
+
+.teximg3{
+    width: 99%;
+    height: 99%;
+    display: flex;
+    flex-direction: flex-end;
+    background-color: rgb(255, 255, 255);
+    margin: 3px;
+    align-self: flex-end;
+    align-content: flex-end;
+    margin-top: 2%;
+}
+
+.texto4{
+    text-align: justify;
+}
+
+.imagem4{
+    display: flex;
+    width: 300px;
+    height: 322px;
+    margin: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.teximg4{
+    width: 99%;
+    height: 99%;
+    display: flex;
+    flex-direction: flex-end;
+    background-color: rgb(255, 255, 255);
+    margin: 3px;
+    align-self: flex-end;
+    align-content: flex-end;
+    margin-top: 2%;
+}
+
+.texto5{
+    text-align: justify;
+}
+
+.imagem5{
+    display: flex;
+    width: 300px;
+    height: 322px;
+    margin: 20px;
+    margin-left: 100px;
+    margin-top: 27px;
+}
+
+.teximg5{
+    width: 99%;
+    height: 99%;
+    display: flex;
+    flex-direction: flex-end;
+    background-color: rgb(255, 255, 255);
+    margin: 3px;
+    align-self: flex-end;
+    align-content: flex-end;
+    margin-top: 2%;
+}
+
+.texto6{
+    text-align: justify;
+}
+
+.imagem6{
+    display: flex;
+    width: 300px;
+    height: 322px;
+    margin: 20px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.teximg6{
+    width: 99%;
+    height: 99%;
+    display: flex;
+    flex-direction: flex-end;
+    background-color: rgb(255, 255, 255);
+    margin: 3px;
+    align-self: flex-end;
+    align-content: flex-end;
+    margin-top: 2%;
+
+}
+
+.video{
+    width: 99%;
+    height: 99%;
+    display: flex;
+    flex-direction: center;
+    background-color: white;
+    margin: 3px;
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
+
+h3{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
